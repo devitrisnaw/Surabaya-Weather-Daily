@@ -1,6 +1,6 @@
 # 🌤️ Surabaya Weather ETL (Daily)
 
-Hey there! This is a simple end-to-end ETL project that pulls daily weather data for **Surabaya, Indonesia** using the Open-Meteo public API. The data gets cleaned, transformed, sent to Google BigQuery, and then visualized using Looker Studio — all in one flow (manually, for now!).
+Hey there! This is a simple end-to-end ETL project that pulls daily weather data for **Surabaya, Indonesia** using the Open-Meteo public API. The data gets cleaned, transformed, sent to Google BigQuery, and then visualized using Looker Studio.
 
 ---
 
@@ -20,8 +20,6 @@ Hey there! This is a simple end-to-end ETL project that pulls daily weather data
 - **Libraries:** pandas, requests, google-cloud-bigquery
 - **Storage:** Google BigQuery
 - **Visualization:** Looker Studio
-- (No automation tools like Prefect — running everything manually for now)
-
 ---
 
 ## 🛠️ How to Run This Project (Manual ETL)
