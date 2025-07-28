@@ -52,6 +52,8 @@ Looker Studio Dashboard
 
 ## 📊 Dashboard
 You can view the weather trends and insights here:
+
 👉 View Looker Studio Dashboard
+
 https://lookerstudio.google.com/reporting/edbae31e-f3da-434d-afe6-9578a68d03c4
 (The link is also saved in dashboard_link.txt)
