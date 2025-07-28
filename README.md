@@ -46,6 +46,7 @@ load_to_bigquery.py
 BigQuery Table (surabaya_weather)
      ↓
 Looker Studio Dashboard
+```
 
 ---
 
