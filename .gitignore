@@ -1,0 +1,4 @@
+# ignore credential & temp
+config
+*.pyc
+temp_cleaned_weather.csv
