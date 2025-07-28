@@ -37,11 +37,11 @@ Hey there! This is a simple end-to-end ETL project that pulls daily weather data
 ```text
 Open-Meteo API
      ↓
-data_extraction_harian.py
+extract.py
      ↓
-data_cleaning.py
+transform.py
      ↓
-load_to_bigquery.py
+load.py
      ↓
 BigQuery Table (surabaya_weather)
      ↓
